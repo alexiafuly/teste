@@ -1,0 +1,34 @@
+[
+    {
+        "data_hora": "13/06/2026 02:16:12",
+        "criados": [],
+        "removidos": []
+    },
+    {
+        "data_hora": "13/06/2026 02:16:40",
+        "criados": [],
+        "removidos": []
+    },
+    {
+        "data_hora": "13/06/2026 02:24:03",
+        "gitkeeps_criados": [
+            "./log/.gitkeep",
+            "./ic/.gitkeep",
+            "./.git/objects/info/.gitkeep",
+            "./.git/lfs/tmp/.gitkeep",
+            "./.git/refs/tags/.gitkeep"
+        ],
+        "gitkeeps_removidos": [
+            "./estágio/.gitkeep"
+        ]
+    },
+    {
+        "data_hora": "13/06/2026 02:32:12",
+        "gitkeeps_criados": [
+            "./estágio/.gitkeep"
+        ],
+        "gitkeeps_removidos": [
+            "./monitoria/.gitkeep"
+        ]
+    }
+]
