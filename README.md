@@ -11,7 +11,9 @@ O usuário deve criar seus diretórios e adicionar quantos arquivos quiser. Depo
 Explique as diferenças entre:
 
 a) json.dump() vs json.dumps()
+
 R: json.dump() manda as informações para um arquivo, enquanto json.dumps() manda as informações para uma string.
 
 b) json.load() vs json.loads()
+
 R: json.load() é uilizado para pegar as informações de um arquivo, enquanto json.loads() pega as informações de uma string.
